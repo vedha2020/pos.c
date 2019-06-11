@@ -5,10 +5,10 @@ int main()
 	int a;
 	scanf("%d",&a);
 	if(a>0)
-	printf("the number is positive");
+	printf("Positive);
 	else if(a<0)
-	printf("the number is negative");
+	printf("Negative");
 	else
-	printf("the number is zero");
+	printf("Zero");
 	return 0;
 }
